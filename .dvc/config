@@ -1,0 +1,6 @@
+[core]
+    remote = myremote2
+['remote "myremote"']
+    url = s3://pk-dvc-bucket
+['remote "myremote2"']
+    url = s3://pk-dvc-bucket

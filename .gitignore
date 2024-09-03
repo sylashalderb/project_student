@@ -1,0 +1,5 @@
+/metrics.json
+/model.pkl
+
+# exclude data from source control by default
+/data/
